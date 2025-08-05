@@ -60,7 +60,7 @@ Improved fraud detection by 50%.
 
 ## Let’s Connect!
 
--  [Email](khyatisinha21@gmail.com)
+-  [Email](mailto:khyatisinha21@gmail.com)
 -  [LinkedIn](https://linkedin.com/in/khyati05)
 -  [GitHub](https://github.com/khyati-55)
 
