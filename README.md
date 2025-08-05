@@ -64,7 +64,5 @@ Improved fraud detection by 50%.
 -  [LinkedIn](https://linkedin.com/in/khyati05)
 -  [GitHub](https://github.com/khyati-55)
 
----
 
-![Khyati's GitHub stats](https://github-readme-stats.vercel.app/api?username=khyati-55&show_icons=true&theme=radical)
 
