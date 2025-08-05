@@ -50,11 +50,11 @@ Improved fraud detection by 50%.
 
 ## Interests
 
-- 🤖 Machine Learning & NLP
-- 📈 Time Series Forecasting
-- 📊 Business Intelligence & Visualization
-- 💬 Conversational AI & Automation
-- 🌍 Tech for Social Good
+-  Machine Learning & NLP
+-  Time Series Forecasting
+-  Business Intelligence & Visualization
+-  Conversational AI & Automation
+-  Tech for Social Good
 
 ---
 
